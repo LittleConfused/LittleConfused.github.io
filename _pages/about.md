@@ -40,6 +40,8 @@ Yuman Gao\*, Ruibin Zhang\*, **Tiancheng Lai**\*, Yanjun Cao, Chao Xu, Fei Gao
 In this paper, we develop a hierarchical scheme to drive the TABV to explore under given energy and time budget. With this scheme, the TABV can flexibly respond to different environments and energy/time constraints by changing the modality.
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE2026 Under Review</div><img src='images/cjc_tase.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -52,6 +54,8 @@ In this paper, we present ToFormer, an innovative framework designed to overcome
 -[TriphiBot: A Triphibious Robot Combining FOC-based Propulsion with Eccentric Design](https://arxiv.org/abs/2602.01385)
 
 Xiangyu Li, Mingwei Lai, Mengke Zhang, Junxiao Lin, **Tiancheng Lai**, Junping Zhi, Chao Xu, Fei Gao, Yanjun Cao
+</div>
+</div>
 
 # 📝 Ongoing Works
 
@@ -63,6 +67,8 @@ Xiangyu Li, Mingwei Lai, Mengke Zhang, Junxiao Lin, **Tiancheng Lai**, Junping Z
 **Tiancheng Lai**\*, Yuman Gao\*, Xiangyu Li, Ruitian Pang, Xingpeng Wang, Siqi Shen, Mengke Zhang, Chao Xu, Fei Gao, and Yanjun Cao
 
 his paper presents a novel exploration framework that leverages sparse, unaligned, and potentially discrepant 2D prior maps for LiDAR-based UAV exploration. First, a robust 2D-3D registration pipeline is proposed to align LiDAR observations with prior maps. The registration pipeline combines a sequential-aware GeoContext descriptor for single-frame candidate retrival, a multi-frame verification mechanism for outlier rejection and coarse transformation estimation, and a Scale-ICP algorithm for refinement. The registration module can handle map discrepancies and provide multiple hypotheses under geometric similarities. To effectively utilize the registration results for exploration planning, we further develop a hierarchical viewpoint planning strategy. The hierarchical strategy attach local viewpoints to prior guidepoints, and adopts a Monte Carlo Tree Search (MCTS) based solver to determine the optimal traversal sequence of prior guidepoints under each registration hypothesis. To mitigate registration uncertainties, a risk-aware selector evaluates the best prior sequence according and a Fixed-endpoint Traveling Salesman Problem (FE-TSP) is formulated to generate an efficient local coverage path under the guidance of the selected prior sequence.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
