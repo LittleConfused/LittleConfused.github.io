@@ -30,7 +30,7 @@ Now I am currently engaged in research at FAST-Lab, under the supervision of Pro
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL2025</div><img src='images/TABV.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Autonomous exploration with terrestrial-aerial bimodal vehicles](https://arxiv.org/pdf/2507.21338)
@@ -40,7 +40,7 @@ Yuman Gao\*, Ruibin Zhang\*, **Tiancheng Lai**\*, Yanjun Cao, Chao Xu, Fei Gao
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 In this paper, we develop a hierarchical scheme to drive the TABV to explore under given energy and time budget. With this scheme, the TABV can flexibly respond to different environments and energy/time constraints by changing the modality.
 
-# 📝 Ongoing Works
+<!-- # 📝 Ongoing Works
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-FR2026 Under Review</div><img src='images/TFR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,11 +49,11 @@ In this paper, we develop a hierarchical scheme to drive the TABV to explore und
 
 **Tiancheng Lai**\*, Yuman Gao\*, Xiangyu Li, Ruitian Pang, Xingpeng Wang, Siqi Shen, Mengke Zhang, Chao Xu, Fei Gao, and Yanjun Cao
 
-his paper presents a novel exploration framework that leverages sparse, unaligned, and potentially discrepant 2D prior maps for LiDAR-based UAV exploration. First, a robust 2D-3D registration pipeline is proposed to align LiDAR observations with prior maps. The registration pipeline combines a sequential-aware GeoContext descriptor for single-frame candidate retrival, a multi-frame verification mechanism for outlier rejection and coarse transformation estimation, and a Scale-ICP algorithm for refinement. The registration module can handle map discrepancies and provide multiple hypotheses under geometric similarities. To effectively utilize the registration results for exploration planning, we further develop a hierarchical viewpoint planning strategy. The hierarchical strategy attach local viewpoints to prior guidepoints, and adopts a Monte Carlo Tree Search (MCTS) based solver to determine the optimal traversal sequence of prior guidepoints under each registration hypothesis. To mitigate registration uncertainties, a risk-aware selector evaluates the best prior sequence according and a Fixed-endpoint Traveling Salesman Problem (FE-TSP) is formulated to generate an efficient local coverage path under the guidance of the selected prior sequence.
+his paper presents a novel exploration framework that leverages sparse, unaligned, and potentially discrepant 2D prior maps for LiDAR-based UAV exploration. First, a robust 2D-3D registration pipeline is proposed to align LiDAR observations with prior maps. The registration pipeline combines a sequential-aware GeoContext descriptor for single-frame candidate retrival, a multi-frame verification mechanism for outlier rejection and coarse transformation estimation, and a Scale-ICP algorithm for refinement. The registration module can handle map discrepancies and provide multiple hypotheses under geometric similarities. To effectively utilize the registration results for exploration planning, we further develop a hierarchical viewpoint planning strategy. The hierarchical strategy attach local viewpoints to prior guidepoints, and adopts a Monte Carlo Tree Search (MCTS) based solver to determine the optimal traversal sequence of prior guidepoints under each registration hypothesis. To mitigate registration uncertainties, a risk-aware selector evaluates the best prior sequence according and a Fixed-endpoint Traveling Salesman Problem (FE-TSP) is formulated to generate an efficient local coverage path under the guidance of the selected prior sequence. -->
 
-<!-- # 🎖 Honors and Awards
+# 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 
 # 📖 Educations
 - *2024.09 - 2027.06 (expected)*, Matser in Automation and Engineering at Zhejiang University.
