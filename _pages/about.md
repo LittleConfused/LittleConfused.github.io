@@ -30,7 +30,7 @@ Now I am currently engaged in research at FAST-Lab, under the supervision of Pro
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL2025</div><img src='images/TABV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RAL2025</div><img src='images/TABV.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Autonomous exploration with terrestrial-aerial bimodal vehicles](https://arxiv.org/pdf/2507.21338)
